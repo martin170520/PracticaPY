@@ -1,0 +1,53 @@
+{
+    "Peru": [
+      {
+        "id": 1,
+        "nombre": "Lima",
+        "temperatura": 24,
+        "latitud": -12.0464,
+        "longitud": -77.0428,
+        "descripcion": "Mayormente soleado"
+      },
+      {
+        "id": 2,
+        "nombre": "Cusco",
+        "temperatura": 20,
+        "latitud": -13.531950,
+        "longitud": -71.967463,
+        "descripcion": "Parcialmente nublado"
+      },
+      {
+        "id": 3,
+        "nombre": "Arequipa",
+        "temperatura": 22,
+        "latitud": -16.409047,
+        "longitud": -71.537451,
+        "descripcion": "Mayormente soleado"
+      },
+      {
+        "id": 4,
+        "nombre": "Trujillo",
+        "temperatura": 26,
+        "latitud": -8.1091,
+        "longitud": -79.0212,
+        "descripcion": "Mayormente soleado"
+      },
+      {
+        "id": 5,
+        "nombre": "Chiclayo",
+        "temperatura": 28,
+        "latitud": -6.7714,
+        "longitud": -79.8409,
+        "descripcion": "Mayormente soleado"
+      },
+      {
+        "id": 6,
+        "nombre": "Piura",
+        "temperatura": 30,
+        "latitud": -5.1945,
+        "longitud": -80.6328,
+        "descripcion": "Mayormente soleado"
+      }
+    ]
+  }
+  
